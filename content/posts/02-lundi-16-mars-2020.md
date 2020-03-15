@@ -35,3 +35,5 @@ authorImg: "https://media-exp1.licdn.com/dms/image/C4E03AQGaDga9oQ6d6g/profile-d
 > Une fois tout terminé, me faire un retour sur les eventuelles difficultés rencontrées (techniques, compréhension etc...)
 
 Bisous ! 😘
+
+![Chat](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)

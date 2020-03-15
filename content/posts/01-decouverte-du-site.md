@@ -10,10 +10,10 @@ authorImg: "https://media-exp1.licdn.com/dms/image/C4E03AQGaDga9oQ6d6g/profile-d
 
 Coucou Minette,
 
-Voici le premier jour de cours. On nage en pleine nouveauté ici donc il se peut qu'on fasse des erreurs. C'est pas grave, du moment qu'on les corrige. Je compte donc sur toi pour me dire si quelque chose a buggé, n'est pas adapté ou si tu n'en a pas compris le fonctionnement.
+Voici le premier jour de cours. On nage en pleine nouveauté ici donc il se peut qu'on fasse des erreurs. C'est pas grave, du moment qu'on les corrige. Je compte donc sur toi pour me dire si quelque chose a buggé, n'est pas adapté ou si tu n'en as pas compris le fonctionnement.
 
 ## Comment ça marche
-Tous les jours, tu trouveras ici les leçons, vidéos et devoirs donnés par tes profs ou moi s'il n'y a rien. On commence, pour l'instant j'ai pas vu grand chose. Cette première semaine, on va répéter un peu ce qu'il s'est dit en cours la semaine dernière afin d'être sûre de n'avoir rien raté. Tu es prête ?
+Tous les jours, tu trouveras ici les leçons, vidéos et devoirs donnés par tes profs ou moi, s'il n'y a rien. On commence, pour l'instant j'ai pas vu grand chose sur Pronote. Cette première semaine, on va répéter un peu ce qu'il s'est dit en cours la semaine dernière afin d'être sûre de n'avoir rien raté. Tu es prête ?
 
 C'est parti.
 

@@ -32,7 +32,7 @@ function About() {
                         <h3>
                             Coucou, c'est Maman.
                             </h3>
-                        <h5>Développeuse Web | Ditributrice de pâtée | Réchauffeuse de Pasta Box<br /></h5>
+                        <h5>Développeuse Web | Distributrice de pâtée | Réchauffeuse de Pasta Box<br /></h5>
                         <p>
                             <br />
 
