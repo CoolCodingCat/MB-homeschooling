@@ -24,7 +24,7 @@ export default class Search extends Component {
           <input
             className="form-control"
             type="text"
-            placeholder="Search"
+            placeholder="Rechercher"
             value={this.state.query}
             onChange={this.search} />
         </div>

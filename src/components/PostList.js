@@ -35,7 +35,7 @@ export default () => {
         )
       }
       <Link fade className="my-3 float-right btn text-info shadow-sm" to="blog" duration = {.5}>
-        View All →
+        Voir tout →
       </Link>
     </div>
   )

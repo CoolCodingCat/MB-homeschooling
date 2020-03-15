@@ -31,7 +31,7 @@ html body {
 }
 
 .dark {
-    background-color: #12181B;
+    background-color: rgb(45, 72, 85);
     color: #B2BECD;
     --card-color: #414141;
     --card-text-color: #FFF;

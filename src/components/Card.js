@@ -32,7 +32,7 @@ const Card = ({ title, description, timeStamp, authorName, slug }) => {
                     <h5 class="card-title" style={titleStyle}>{title}</h5>
                     <p class="card-text">{description}</p>
                     <h6 class="card-subtitle text-muted">
-                        <Author to="/about">{authorName}</Author> on {timeStamp}
+                        <Author to="/about">{authorName}</Author> le {timeStamp}
                     </h6>
                 </div>
             </div>

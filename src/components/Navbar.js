@@ -31,16 +31,16 @@ function Navbar() {
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="nav justify-content-center container">
                     <li class="nav-item mr-5">
-                        <NavLink class="nav-link" to = "/">Home</NavLink>
+                        <NavLink class="nav-link" to = "/">Accueil</NavLink>
                     </li>
                     <li class="nav-item mr-5">
-                        <NavLink class="nav-link" to = "/blog">Blog</NavLink>
+                        <NavLink class="nav-link" to = "/blog">Devoirs</NavLink>
                     </li>
                     <li class="nav-item mr-5">
-                        <NavLink class="nav-link" to = "/tags">Tags</NavLink>
+                        <NavLink class="nav-link" to = "/tags">Matières</NavLink>
                     </li>
                     <li class="nav-item mr-5">
-                        <NavLink class="nav-link" to = "/search">Search</NavLink>
+                        <NavLink class="nav-link" to = "/search">Recherche</NavLink>
                     </li>
                 </ul>
 

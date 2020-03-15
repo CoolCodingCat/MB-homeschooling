@@ -18,7 +18,7 @@ const Temp = ({ data, pageContext }) => {
   const { previous, next } = pageContext
 
   const disqusConfig = {
-    shortname: "the404blog",//your site shortname here
+    shortname: "MB Homeschooling",//your site shortname here
     config: { identifier: frontmatter.slug, title: frontmatter.title },
   }
 
@@ -54,7 +54,7 @@ const Temp = ({ data, pageContext }) => {
             {frontmatter.title}
           </span>
           <span className="font-weight-bold text-muted">
-            {timeToRead} MIN READ
+            {timeToRead} MIN LECTURE
           </span>
           <div className="row">
             <img

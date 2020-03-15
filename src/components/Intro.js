@@ -6,12 +6,12 @@ function Intro() {
 
     return (
         <div className="container my-4">
-            <h2 className="card-title text-info font-weight-bold">The 404 Blog</h2>
-            <p className="card-subtitle mt-2">Crafted for developers , hoping they can learn something valuable out of it.</p>
-            <Link className="btn btn-info my-3" to="about">Know More</Link>
+            <h2 className="card-title text-info font-weight-bold">MB HomeSchooling</h2>
+            <p className="card-subtitle mt-2">Pour continuer à apprendre des choses afin de comprendre les jeux de mots pourris</p>
+            <Link className="btn btn-info my-3" to="about">En savoir plus</Link>
 
             <hr />
-            <h4>Built with</h4>
+            <h4>Construit avec</h4>
             <a href="https://reactjs.org/">
                 <img
                     className="mr-4 mt-3"

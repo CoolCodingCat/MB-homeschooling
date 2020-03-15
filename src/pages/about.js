@@ -7,15 +7,16 @@ function About() {
     return (
         <Page>
             <Helmet>
-                <title>About | The 404 Blog</title>
+                <title>A Propos | MB HomeSchooling</title>
             </Helmet>
             <div className="container about my-5">
-                <h1 className="font-weight-bold">Hi, there</h1>
-                <h2>Welcome to The 404 Blog</h2>
+                <h1 className="font-weight-bold">Hello there!</h1>
+                <h2>Bienvenue sur ton site à toi</h2>
                 <h6 className="my-3">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                    HomeSchooling signifie "école à la maison". On sait pourquoi on en est là. il faut éviter tout contact avec d'autres humains (oui, les enfants sont des humains aussi) à cause du virus : le Coronavirus.
+                    Nous allons donc regrouper ici les thèmes à étudier, les exercices à faire et les vidéos à regarder. Bref, les leçons quoi.
                 </h6>
-                <h2>Authors</h2>
+                <h2>L'auteur</h2>
 
                 <div className="row my-5">
                     <div className="col-lg-6">
@@ -23,58 +24,31 @@ function About() {
                         <img
                             width="250"
                             className="rounded-circle author-img mx-4 mb-4"
-                            src="https://avatars2.githubusercontent.com/u/21126965?s=400&v=4"
+                            src="https://media-exp1.licdn.com/dms/image/C4E03AQGaDga9oQ6d6g/profile-displayphoto-shrink_200_200/0?e=1590019200&v=beta&t=2uHlrO0HpStesD7gOBujVEHjL1NEW-lAAshnQ5xGNFk"
                             alt="author-img" />
 
                     </div>
                     <div className="col">
                         <h3>
-                            Hi , I'm Mohan
+                            Coucou, c'est Maman.
                             </h3>
-                        <h5>Erstwhile child | Undergrad CS Student | Tech Enthusiast<br /></h5>
+                        <h5>Développeuse Web | Ditributrice de pâtée | Réchauffeuse de Pasta Box<br /></h5>
                         <p>
                             <br />
 
-                            I created this blog to help people learn something intresting.
-                            In this blog, i show case all my work and document them. I hope you get something valuable out of it.
+                            Si tu es arrivée ici, c'est que tu n'as pas en train de faire tes devoirs...
                             <br />
-                            I built this entire blog with <a href="http://gatsbyjs.org/">Gatsby Js</a> 🚀.
+                            Sache que j'ai construit ce site avec <a href="http://gatsbyjs.org/">Gatsby Js</a> 🚀 si jamais tu voulais apprendre comment faire.
                         </p>
 
-                        <h5>Stay in touch <br /></h5>
-                        <SocialIcon url="github.com/mohanmonu777" className="mr-4" />
+                        <h5>Allez, retourne faire tes exercices.
+                            Je t'aime ❤️<br /></h5>
+                        {/* <SocialIcon url="github.com/mohanmonu777" className="mr-4" />
                         <SocialIcon url="https://twitter.com/_MrNullPointer" className="mr-4" />
-                        <SocialIcon url="https://facebook.com/sree.dhannu" className="mr-4" />
+                        <SocialIcon url="https://facebook.com/sree.dhannu" className="mr-4" /> */}
                     </div>
                 </div>
-                <div className="row my-5">
-                    <div className="col-lg-6">
-                        <img
-                            width="250"
-                            className="rounded-circle author-img mx-4 mb-4"
-                            src="https://avatars2.githubusercontent.com/u/39739036?s=400&v=4"
-                            alt="author-img" />
-                    </div>
-                    <div className="col">
-                        <h3>
-                            Hi , I'm Sumanth
-                        </h3>
-                        <h5>Android | Web | Freelancer <br /></h5>
-                        <p>
-                            <br />
-
-                            I created this blog to help people learn something intresting.
-                            In this blog, i show case all my work and document them. I hope you get something valuable out of it.
-                            <br />
-                            I built this entire blog with <a href="http://gatsbyjs.org/">Gatsby Js</a> 🚀.
-                        </p>
-
-                        <h5>Stay in touch <br /></h5>
-                        <SocialIcon url="https://github.com/Mr404Found" className="mr-4" />
-                        <SocialIcon url="https://twitter.com/Mr404Found" className="mr-4" />
-                        <SocialIcon url="https://www.facebook.com/Mr404Found" className="mr-4" />
-                    </div>
-                </div>
+                
             </div>
 
         </Page>
