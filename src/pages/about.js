@@ -1,7 +1,6 @@
 import React from 'react'
 import Page from '../components/PageLayout';
 import Helmet from 'react-helmet'
-import { SocialIcon } from 'react-social-icons'
 
 function About() {
     return (
