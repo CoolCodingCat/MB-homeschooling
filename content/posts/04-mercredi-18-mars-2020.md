@@ -42,6 +42,7 @@ C'est mercredi. Ca t'en bouche un coin, hein ? Comme j'ai pas trouvé d'emoji de
 
 ## Français 🐓
 
+- Termine le bilan s'il n'est pas déjà fini
 - Ecris la page du jour dans ton Corona-Journal
 
 Bisous ! 😘
